@@ -1,0 +1,16 @@
+.navbar-default {
+    background-color: #00c97e;
+    border-color: #e7e7e7;
+}
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 10px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #ffffff;
+}
